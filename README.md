@@ -25,8 +25,8 @@ It helps analyze **sales performance, revenue trends, top products, and regional
 ---
 
 ## 📁 Files Included
-- `airline.xlsx` – Interactive dashboard & Dataset used
-- `README.md` – Project documentation
+- [airline.xlsx](./airline.xlsx) – Final interactive dashboard & Dataset used 
+- [README.md](./README.md) – Project documentation  
 
 ---
 
