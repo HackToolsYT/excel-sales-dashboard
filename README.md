@@ -38,5 +38,5 @@ It helps analyze **sales performance, revenue trends, top products, and regional
 ---
 
 ## 📸 Dashboard Preview
-![Airline Dashboard](Screenshot%202025-11-27%20133813.png)
+![Airline Dashboard](airplane_visualization.png)
 
