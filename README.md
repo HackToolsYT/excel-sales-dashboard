@@ -38,4 +38,5 @@ It helps analyze **sales performance, revenue trends, top products, and regional
 ---
 
 ## 📸 Dashboard Preview
-(Add a screenshot: upload PNG → click **Insert** to embed here)
+![Mobile Sales Dashboard](mobile%20dashboard.png)
+
